@@ -577,6 +577,10 @@
       "PackagePath": "staticwebassets\\AdminLTE\\dist\\img\\AdminLTELogo.png"
     },
     {
+      "Id": "C:\\Users\\Hafiz\\Desktop\\Repo\\EmployeeManagementSystem\\wwwroot\\AdminLTE\\dist\\img\\Letter-H-PNG.png",
+      "PackagePath": "staticwebassets\\AdminLTE\\dist\\img\\Letter-H-PNG.png"
+    },
+    {
       "Id": "C:\\Users\\Hafiz\\Desktop\\Repo\\EmployeeManagementSystem\\wwwroot\\AdminLTE\\dist\\img\\avatar.png",
       "PackagePath": "staticwebassets\\AdminLTE\\dist\\img\\avatar.png"
     },
@@ -679,6 +683,10 @@
     {
       "Id": "C:\\Users\\Hafiz\\Desktop\\Repo\\EmployeeManagementSystem\\wwwroot\\AdminLTE\\dist\\img\\user2-160x160.jpg",
       "PackagePath": "staticwebassets\\AdminLTE\\dist\\img\\user2-160x160.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Hafiz\\Desktop\\Repo\\EmployeeManagementSystem\\wwwroot\\AdminLTE\\dist\\img\\user2-160x160.png",
+      "PackagePath": "staticwebassets\\AdminLTE\\dist\\img\\user2-160x160.png"
     },
     {
       "Id": "C:\\Users\\Hafiz\\Desktop\\Repo\\EmployeeManagementSystem\\wwwroot\\AdminLTE\\dist\\img\\user3-128x128.jpg",
@@ -9343,6 +9351,10 @@
     {
       "Id": "C:\\Users\\Hafiz\\Desktop\\Repo\\EmployeeManagementSystem\\wwwroot\\AdminLTE\\plugins\\uplot\\uPlot.min.css",
       "PackagePath": "staticwebassets\\AdminLTE\\plugins\\uplot\\uPlot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Hafiz\\Desktop\\Repo\\EmployeeManagementSystem\\wwwroot\\AdminLTE\\user2-160x160.png",
+      "PackagePath": "staticwebassets\\AdminLTE\\user2-160x160.png"
     },
     {
       "Id": "C:\\Users\\Hafiz\\Desktop\\Repo\\EmployeeManagementSystem\\wwwroot\\css\\site.css",

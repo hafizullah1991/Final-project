@@ -1,8 +1,10 @@
 {
   "ExpandedNodes": [
     "",
-    "\\Models"
+    "\\Models",
+    "\\Views",
+    "\\Views\\Home"
   ],
-  "SelectedNode": "\\Models\\Employee.cs",
+  "SelectedNode": "\\EmployeeManagementSystem.sln",
   "PreviewInSolutionExplorer": false
 }

@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "w6x1NsImiAk6eBksy3jynApwNcIKmcjzFtncIQePKAY=",
+  "Hash": "jr4vSH/VBkD9HPRY4TPU/s606ac14OeZtxehZlAA8s4=",
   "Source": "EmployeeManagementSystem",
   "BasePath": "_content/EmployeeManagementSystem",
   "Mode": "Default",
@@ -4197,6 +4197,25 @@
       "OriginalItemSpec": "wwwroot\\AdminLTE\\dist\\img\\icons.png"
     },
     {
+      "Identity": "C:\\Users\\Hafiz\\Desktop\\Repo\\EmployeeManagementSystem\\wwwroot\\AdminLTE\\dist\\img\\Letter-H-PNG.png",
+      "SourceId": "EmployeeManagementSystem",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Hafiz\\Desktop\\Repo\\EmployeeManagementSystem\\wwwroot\\",
+      "BasePath": "_content/EmployeeManagementSystem",
+      "RelativePath": "AdminLTE/dist/img/Letter-H-PNG.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\AdminLTE\\dist\\img\\Letter-H-PNG.png"
+    },
+    {
       "Identity": "C:\\Users\\Hafiz\\Desktop\\Repo\\EmployeeManagementSystem\\wwwroot\\AdminLTE\\dist\\img\\photo1.png",
       "SourceId": "EmployeeManagementSystem",
       "SourceType": "Discovered",
@@ -4404,6 +4423,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\AdminLTE\\dist\\img\\user2-160x160.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\Hafiz\\Desktop\\Repo\\EmployeeManagementSystem\\wwwroot\\AdminLTE\\dist\\img\\user2-160x160.png",
+      "SourceId": "EmployeeManagementSystem",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Hafiz\\Desktop\\Repo\\EmployeeManagementSystem\\wwwroot\\",
+      "BasePath": "_content/EmployeeManagementSystem",
+      "RelativePath": "AdminLTE/dist/img/user2-160x160.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\AdminLTE\\dist\\img\\user2-160x160.png"
     },
     {
       "Identity": "C:\\Users\\Hafiz\\Desktop\\Repo\\EmployeeManagementSystem\\wwwroot\\AdminLTE\\dist\\img\\user3-128x128.jpg",
@@ -45558,6 +45596,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\AdminLTE\\plugins\\uplot\\uPlot.min.css"
+    },
+    {
+      "Identity": "C:\\Users\\Hafiz\\Desktop\\Repo\\EmployeeManagementSystem\\wwwroot\\AdminLTE\\user2-160x160.png",
+      "SourceId": "EmployeeManagementSystem",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Hafiz\\Desktop\\Repo\\EmployeeManagementSystem\\wwwroot\\",
+      "BasePath": "_content/EmployeeManagementSystem",
+      "RelativePath": "AdminLTE/user2-160x160.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\AdminLTE\\user2-160x160.png"
     },
     {
       "Identity": "C:\\Users\\Hafiz\\Desktop\\Repo\\EmployeeManagementSystem\\wwwroot\\css\\site.css",

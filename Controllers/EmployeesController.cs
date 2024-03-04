@@ -54,8 +54,12 @@ namespace EmployeeManagementSystem.Controllers
         // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Create([Bind("EmployeeID,FirstName,LastName,Email,DateOfBirth,Gender,Address,City,PhoneNumbwer,Department,JobTitle,Country,CreatedOn")] Employee employee)
+        public async Task<IActionResult> Create([Bind("EmployeeID,FirstName,LastName,Email,DateOfBirth,Gender,Address,City,PhoneNumber,Department,JobTitle,Country,CreatedOn")] Employee employee)
         {
+            if(!ModelState.IsValid)
+            {
+                var errorList = ModelState.Values.SelectMany(m => m.Errors).Select(e => e.ErrorMessage).ToList();
+            }
             if (ModelState.IsValid)
             { 
                     _context.Add(employee);
@@ -86,7 +90,7 @@ namespace EmployeeManagementSystem.Controllers
         // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Edit(int id, [Bind("EmployeeID,FirstName,LastName,Email,DateOfBirth,Gender,Address,City,PhoneNumbwer,Department,JobTitle,Country,CreatedOn")] Employee employee)
+        public async Task<IActionResult> Edit(int id, [Bind("EmployeeID,FirstName,LastName,Email,DateOfBirth,Gender,Address,City,PhoneNumber,Department,JobTitle,Country,CreatedOn")] Employee employee)
         {
             if (id != employee.EmployeeID)
             {
