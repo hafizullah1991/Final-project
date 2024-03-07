@@ -1,9 +1,14 @@
 {
   "ExpandedNodes": [
     "",
+    "\\Areas",
+    "\\Areas\\Identity",
+    "\\Areas\\Identity\\Pages",
+    "\\Controllers",
     "\\Models",
     "\\Views",
-    "\\Views\\Home"
+    "\\Views\\Home",
+    "\\Views\\Shared"
   ],
   "SelectedNode": "\\EmployeeManagementSystem.sln",
   "PreviewInSolutionExplorer": false
