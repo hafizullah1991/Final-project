@@ -6,7 +6,6 @@ The Employee Management System is a comprehensive software solution designed to 
 
 ## Features
 
-- 
 - **Employee Information Management:** Store and manage employee information, including personal details, contact information, and employment history.
 - **Mobile Accessibility:** Access the system from anywhere using mobile devices for convenience and flexibility.
 - **Sorting Options:** Sort employee data by various criteria such as first name, last name, employee ID, department, etc.
